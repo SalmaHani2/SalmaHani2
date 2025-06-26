@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left"><br>📚 I'm currently learning MERN stack...<br><br>🎲 Fun fact: ...</p>
+<p align="left"><br>📚 I'm currently learning MERN stack...<br><br></p>
 
 ###
 
-<h2 align="left">I code with Python,c++,javascript</h2>
+<h2 align="left">I code with ........</h2>
 
 ###
 

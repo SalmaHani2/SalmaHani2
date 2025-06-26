@@ -31,7 +31,8 @@
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="react logo"  />
+   <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg
+)" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />

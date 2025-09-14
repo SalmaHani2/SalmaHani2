@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"><br>📚 I'm currently learning MERN stack...<br><br></p>
+<p align="left"><br>📚 I'm currently learning Full stack .Net -- Angular<br><br></p>
 
 ###
 

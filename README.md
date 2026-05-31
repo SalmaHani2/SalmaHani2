@@ -32,10 +32,14 @@ I'm currently an active **mentor at ICPC Assiut University Community**, where I 
 
 ### 🏆 Key Achievements
 
-- 🥇 **1st Place Nationwide** (Round 3) — Smart City Services Project under DEPI
-- 🧠 **1500+ Problems Solved** across competitive programming platforms
-- 🎓 **ICPC Mentor** — Guiding the next generation of competitive programmers at Assiut University
-- 📊 **GPA: 3.51 / 4.0** — Computer Science, Assiut University
+| 🏅 | Achievement |
+|---|---|
+| 🥇 | **1st Place Nationwide** (Round 3) — Smart City Services Project under DEPI |
+| 🧠 | **1500+ Problems Solved** across competitive programming platforms |
+| 🎓 | **ICPC Mentor** at Assiut University Community — guiding students through structured training paths |
+| 💻 | **Full Stack .NET Developer** — built production-grade scalable web apps using Clean Architecture |
+| 📐 | Strong command of **Data Structures, Algorithms, OOP & SOLID Principles** |
+| 📊 | **GPA: 3.51 / 4.0** — Computer Science, Assiut University (Class of 2027) |
 
 ---
 
@@ -57,19 +61,8 @@ Open for technical discussions, competitive programming collaborations, or mento
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:salmahani0127@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/salma-hani)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Salma_Hani)
 
 </div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salmahani/salmahani/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salmahani/salmahani/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/salmahani/salmahani/output/github-contribution-grid-snake.svg">
-</picture>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=salmahani&theme=transparent&hide_border=true" alt="GitHub Streak">
-</p>
 
 </div>

@@ -30,28 +30,6 @@ I'm currently an active **mentor at ICPC Assiut University Community**, where I 
 
 ---
 
-### 🏆 Key Achievements
-
-| 🏅 | Achievement |
-|---|---|
-| 🥇 | **1st Place Nationwide** (Round 3) — Smart City Services Project under DEPI |
-| 🧠 | **1500+ Problems Solved** across competitive programming platforms |
-| 🎓 | **ICPC Mentor** at Assiut University Community — guiding students through structured training paths |
-| 💻 | **Full Stack .NET Developer** — built production-grade scalable web apps using Clean Architecture |
-| 📐 | Strong command of **Data Structures, Algorithms, OOP & SOLID Principles** |
-| 📊 | **GPA: 3.51 / 4.0** — Computer Science, Assiut University (Class of 2027) |
-
----
-
-### 💼 Experience Highlights
-
-**🔹 Mentor @ ICPC Assiut University Community** *(Sep 2025 – Present)*
-> Mentoring students in algorithms, problem solving, and competitive programming training tracks.
-
-**🔹 Full Stack .NET Developer @ DEPI** *(Jun 2025 – Dec 2025)*
-> Built scalable web applications using Clean Architecture in an Agile team. Contributed to a Smart City Services project that ranked **1st nationwide**.
-
----
 
 ### 🔗 Let's Connect!
 

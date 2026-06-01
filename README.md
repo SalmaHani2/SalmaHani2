@@ -13,21 +13,8 @@ I'm a **Third-year Computer Science student** at Assiut University and a **Full 
 I'm currently an active **mentor at ICPC Assiut University Community**, where I guide students through structured training paths and help them grow their problem-solving skills.
 
 ---
-### 🔗 Let's Connect!
 
-Open for technical discussions, competitive programming collaborations, or mentorship talks!
-
-<div align="left">
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:salmahani0127@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/salma-hani)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Salma_Hani)
-
-</div>
-
-</div>
----
-### 🛠️Tools:
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
@@ -41,4 +28,19 @@ Open for technical discussions, competitive programming collaborations, or mento
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
+---
 
+
+### 🔗 Let's Connect!
+
+Open for technical discussions, competitive programming collaborations, or mentorship talks!
+
+<div align="left">
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:salmahani0127@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/salma-hani)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Salma_Hani)
+
+</div>
+
+</div>

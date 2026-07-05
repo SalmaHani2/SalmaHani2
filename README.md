@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/salma-hani">
-    <img src="https://readme-typing-svg.demolab.com/?lines=1500%2B+Problems+Solved;Full+Stack+.NET+Developer;ICPC+Mentor+%40+Assiut+University;Competitive+Programmer&font=Bold+Code&center=true&color=0077B5&size=25&pause=2000&width=600">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+.NET+Developer;ICPC+Mentor+%40+Assiut+University;Competitive+Programmer&font=Bold+Code&center=true&color=0077B5&size=25&pause=2000&width=600">
   </a>
 </p>
 

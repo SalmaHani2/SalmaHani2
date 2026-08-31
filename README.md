@@ -14,6 +14,14 @@ I'm currently an active **mentor at ICPC Assiut University Community**, where I 
 
 ---
 
+### 🏆 Key Achievements
+
+* **ECPC Finalist:** Ranked 6th at Assiut University and 24th overall on contest day[cite: 1].
+* **1st Place Nationwide:** Smart City Services mega project under DEPI (Round 3)[cite: 1].
+* **Competitive Programming:** Solved 1,800+ problems across various platforms[cite: 1].
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
@@ -27,14 +35,6 @@ I'm currently an active **mentor at ICPC Assiut University Community**, where I 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
-
----
-
-### 🏆 Key Achievements
-
-* **ECPC Finalist:** Ranked 6th at Assiut University and 24th overall on contest day.
-* **1st Place Nationwide:** Smart City Services mega project under DEPI (Round 3).
-* **Competitive Programming:** Solved 1,800+ problems across various platforms.
 
 ---
 

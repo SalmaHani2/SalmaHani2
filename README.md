@@ -63,50 +63,6 @@
 &nbsp;🔹 Designed database schemas and handled migrations using **EF Core & SQL Server**.  
 &nbsp;🔹 Applied **Repository and Service** design patterns.
 
-#### 🏙️ Smart City Services Platform
-
-**ASP.NET Core • Clean Architecture • EF Core • SQL Server • AutoMapper**
-
-&nbsp;🔹 Backend RESTful API for a smart city ecosystem.  
-&nbsp;🔹 Handles citizen services, bills, utility issues, complaints, and suggestions.  
-&nbsp;🔹 Applied **Repository and Service/Manager** architectural patterns.  
-&nbsp;🔹 Designed database relationships and managed migrations using EF Core.  
-&nbsp;🔹 Used **AutoMapper** for object mapping.  
-&nbsp;🏆 **1st Place Nationwide — DEPI Round 3**
-
-### 🏆 &nbsp;Achievements
-
-&nbsp;🥇 **1st Place Nationwide** — Smart City Services Project, DEPI Round 3  
-&nbsp;🏅 **ECPC Finalist** — Ranked 6th at Assiut University and 24th among contestants on contest day  
-&nbsp;💻 **1800+ Programming Problems Solved** across multiple platforms  
-&nbsp;👩🏻‍🏫 **ICPC Assiut University Community Mentor** — mentoring students in competitive programming and problem solving
-
-### 👩🏻‍🏫 &nbsp;Community & Experience
-
-&nbsp;🎯 **ICPC Assiut University Community — Mentor**  
-&nbsp;&nbsp;&nbsp;• Mentor students in competitive programming and problem solving.  
-&nbsp;&nbsp;&nbsp;• Help juniors improve their algorithms and coding skills.  
-&nbsp;&nbsp;&nbsp;• Conduct practice sessions and guide training tracks.
-
-&nbsp;🤝 **Human For Good (HFG) — Organizing Committee Member**  
-&nbsp;&nbsp;&nbsp;• Organized community service initiatives and collaborative events.  
-&nbsp;&nbsp;&nbsp;• Contributed to team coordination and logistical planning.
-
-### 📚 &nbsp;Training
-
-&nbsp;🎓 **Digital Egypt Pioneers Initiative (DEPI) — Full Stack .NET Developer**  
-&nbsp;&nbsp;&nbsp;• Backend development using .NET.  
-&nbsp;&nbsp;&nbsp;• Worked in an Agile team using Clean Architecture.  
-&nbsp;&nbsp;&nbsp;• Contributed to the Smart City Services project.
-
-&nbsp;🎨 **ITI — Web Development Using Angular**  
-&nbsp;&nbsp;&nbsp;• JavaScript (ES.Next), HTML5, and Bootstrap.  
-&nbsp;&nbsp;&nbsp;• Angular framework and SPA development.  
-&nbsp;&nbsp;&nbsp;• Built dynamic and responsive frontend applications.
-
-&nbsp;🌐 **ITI — MERN Stack Training**  
-&nbsp;&nbsp;&nbsp;• Frontend and backend development foundations.  
-&nbsp;&nbsp;&nbsp;• Built dynamic full-stack web applications.
 
 ### 🤝🏻 &nbsp;Connect with Me
 

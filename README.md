@@ -17,8 +17,7 @@
 
 &nbsp;
 
-<img alt="Girl Coding at Night" src="https://i.pinimg.com/originals/82/39/3a/82393a778eefdcc10052c1615a9ab3a0.gif" align="right" width="350" />
-### 🛠 &nbsp;Tech Stack
+<img alt="Coding Girl" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" align="right" width="350" />### 🛠 &nbsp;Tech Stack
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;

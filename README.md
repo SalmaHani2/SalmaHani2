@@ -51,18 +51,6 @@
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%2300f.svg?style=for-the-badge&logo=architecture&logoColor=white)&nbsp;
 ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-%2300599C.svg?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 
-### 🚀 &nbsp;Featured Projects
-
-#### 🎬 Movie Reservation API
-
-**ASP.NET Core • Entity Framework Core • Clean Architecture • Identity • JWT • SQL Server**
-
-&nbsp;🔹 Secure backend RESTful API for cinema and movie reservation management.  
-&nbsp;🔹 Implemented authentication and role-based authorization for **Admin / Customer**.  
-&nbsp;🔹 Used **ASP.NET Identity and JWT** for secure authentication.  
-&nbsp;🔹 Designed database schemas and handled migrations using **EF Core & SQL Server**.  
-&nbsp;🔹 Applied **Repository and Service** design patterns.
-
 
 ### 🤝🏻 &nbsp;Connect with Me
 

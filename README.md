@@ -1,5 +1,3 @@
-<!-- ## 👋 &nbsp;Hey there! I'm Salma Hani -->
-
 ### 👩🏻‍💻 &nbsp;Salma Hani Esmail
 
 &nbsp;👩‍💻 I'm a Computer Science graduate-in-progress focused on full-stack web development using **.NET, C#, ASP.NET Core, Angular, and SQL Server**.  
@@ -27,7 +25,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
-### 🧩 &nbsp;Frameworks & Libraries
+ 🧩 &nbsp;Frameworks & Libraries
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;

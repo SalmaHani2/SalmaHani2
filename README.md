@@ -1,6 +1,6 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Salma Hani -->
 
-### 👩🏻‍💻 &nbsp;About Me
+### 👩🏻‍💻 &nbsp;Salma Hani Esmail
 
 &nbsp;👩‍💻 I'm a Computer Science graduate-in-progress focused on full-stack web development using **.NET, C#, ASP.NET Core, Angular, and SQL Server**.  
 &nbsp;💼 I'm passionate about backend development, RESTful APIs, and building clean and maintainable software.  

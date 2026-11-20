@@ -1,6 +1,6 @@
 ### 👩🏻‍💻 &nbsp;Salma Hani Esmail
 
-&nbsp;👩‍💻 I'm a Computer Science graduate-in-progress focused on full-stack web development using **.NET, C#, ASP.NET Core, Angular, and SQL Server**.  
+&nbsp;👩‍💻 I'm a Computer Science graduate-in-progress focused on full-stack web development using **.NET, C#, ASP.NET Core, and SQL Server**.  
 &nbsp;💼 I'm passionate about backend development, RESTful APIs, and building clean and maintainable software.  
 &nbsp;🧠 I have a strong foundation in **OOP, SOLID Principles, Clean Architecture, and problem solving**.  
 &nbsp;🏆 I'm an **ECPC Finalist** and an active **ICPC Assiut University Community Mentor**.  
@@ -33,19 +33,19 @@
 ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 ![ASP.NET Identity](https://img.shields.io/badge/ASP.NET%20Identity-68217A?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 
-### 🗃 &nbsp;Databases
+ 🗃 &nbsp;Databases
 
 ![SQL Server](https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
-### 🧰 &nbsp;Version Control & Tools
+ 🧰 &nbsp;Version Control & Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
 
-### 🧠 &nbsp;Software Design & Architecture
+ 🧠 &nbsp;Software Design & Architecture
 
 ![OOP](https://img.shields.io/badge/OOP-%23007ACC.svg?style=for-the-badge&logo=code&logoColor=white)&nbsp;
 ![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-%23F24E1E.svg?style=for-the-badge&logo=abstract&logoColor=white)&nbsp;
@@ -55,7 +55,7 @@
 ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-%2300599C.svg?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 ![System Design](https://img.shields.io/badge/System%20Design-%23323330.svg?style=for-the-badge&logo=blueprint&logoColor=white)&nbsp;
 
-### 🤝🏻 &nbsp;Connect with Me
+ 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/salma-hani/" target="_blank">
@@ -72,7 +72,7 @@
 </a>
 </p>
 
-### 🐍 &nbsp;That's How Commits Move ...
+ 🐍 &nbsp;That's How Commits Move ...
 
 <div align="center">
 &nbsp; <img src="https://raw.githubusercontent.com/SalmaHani2/SalmaHani2/output/github-contribution-grid-snake.svg" alt="snake animation" />

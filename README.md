@@ -1,6 +1,12 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi,%20Salma%20Hani%20👋&fontSize=70&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=25&descAlignY=75" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:BA55D3&height=250&section=header&text=Hi,%20I'm%20Salma%20Hani%20👋&fontSize=55&fontColor=FFFFFF&animation=fadeIn&desc=Backend%20Engineer%20%7C%20.NET%20Developer&descSize=20&descAlignY=75&fontAlignY=40"
+    alt="Salma Hani - Backend Engineer"
+    width="100%"
+  />
 </p>
+
 
 &nbsp;👩‍💻 I'm a Computer Science graduate-in-progress focused on full-stack web development using **.NET, C#, ASP.NET Core, and SQL Server**.  
 &nbsp;💼 I'm passionate about backend development, RESTful APIs, and building clean and maintainable software.  

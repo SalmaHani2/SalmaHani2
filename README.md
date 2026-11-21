@@ -1,4 +1,6 @@
-### 👩🏻‍💻 &nbsp;Salma Hani Esmail
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi,%20I'm Salma%20Hani%20👋&fontSize=70&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=25&descAlignY=75" />
+</p>
 
 &nbsp;👩‍💻 I'm a Computer Science graduate-in-progress focused on full-stack web development using **.NET, C#, ASP.NET Core, and SQL Server**.  
 &nbsp;💼 I'm passionate about backend development, RESTful APIs, and building clean and maintainable software.  

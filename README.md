@@ -3,7 +3,7 @@
 </p>
 
 
-&nbsp;👩‍💻 I'm a Computer Science graduate-in-progress focused on full-stack web development using **.NET, C#, ASP.NET Core, and SQL Server**.  
+&nbsp;👩‍💻 I'm a Software Engineer passionate about Backend Development using **.NET, C#, ASP.NET Core, and SQL Server**.  
 &nbsp;💼 I'm passionate about backend development, RESTful APIs, and building clean and maintainable software.  
 &nbsp;🧠 I have a strong foundation in **OOP, SOLID Principles, Clean Architecture, and problem solving**.  
 &nbsp;🏆 I'm an **ECPC Finalist** and an active **ICPC Assiut University Community Mentor**.  

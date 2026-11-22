@@ -1,13 +1,15 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=250&section=header&text=Welcome%20to%20my%20profile%20%F0%9F%91%8B&fontSize=55&fontColor=FFFFFF&animation=fadeIn&descSize=20&descAlignY=75&fontAlignY=40" width="100%" />
 </p>
-&nbsp;👩‍💻 I'm a Software Engineer passionate about Backend Development using **.NET, C#, ASP.NET Core, and SQL Server**.  
-&nbsp;💼 I'm passionate about backend development, RESTful APIs, and building clean and maintainable software.  
-&nbsp;🧠 I have a strong foundation in **OOP, SOLID Principles, Clean Architecture, and problem solving**.  
-&nbsp;🏆 I'm an **ECPC Finalist** and an active **ICPC Assiut University Community Mentor**.  
-&nbsp;💡 I enjoy solving challenging programming problems and building practical software solutions.  
-&nbsp;🌱 I'm continuously improving my skills in software engineering, backend development, and system architecture.  
-&nbsp;🤝 Feel free to reach out to me for collaboration, technical discussions, or interesting opportunities.
+<p>
+  👩‍💻 I'm a Software Engineer passionate about Backend Development using <strong>.NET, C#, ASP.NET Core, and SQL Server</strong>.<br>
+  💼 I'm passionate about backend development, RESTful APIs, and building clean and maintainable software.<br>
+  🧠 I have a strong foundation in <strong>OOP, SOLID Principles, Clean Architecture, and problem solving</strong>.<br>
+  🏆 I'm an <strong>ECPC Finalist</strong> and an active <strong>ICPC Assiut University Community Mentor</strong>.<br>
+  💡 I enjoy solving challenging programming problems and building practical software solutions.<br>
+  🌱 I'm continuously improving my skills in software engineering, backend development, and system architecture.<br>
+  🤝 Feel free to reach out to me for collaboration, technical discussions, or interesting opportunities.
+</p>
 
 - ✉️ Email: salmahani0127@gmail.com
 - 🌐 GitHub: [SalmaHani2](https://github.com/SalmaHani2)

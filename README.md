@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=250&section=header&text=Hi,%20I'm%20Salma%20Hani%20👋&fontSize=55&fontColor=FFFFFF&animation=fadeIn&desc=Backend%20Engineer%20%7C%20.NET%20Developer&descSize=20&descAlignY=75&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=250&section=header&text=Welcome%20to%20my%20profile%2C%20Hani%20%F0%9F%91%8B&fontSize=55&fontColor=FFFFFF&animation=fadeIn&descSize=20&descAlignY=75&fontAlignY=40" width="100%" />
 </p>
-
 
 &nbsp;👩‍💻 I'm a Software Engineer passionate about Backend Development using **.NET, C#, ASP.NET Core, and SQL Server**.  
 &nbsp;💼 I'm passionate about backend development, RESTful APIs, and building clean and maintainable software.  

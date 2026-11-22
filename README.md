@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=250&section=header&text=Welcome%20to%20my%20profile%2C%20Hani%20%F0%9F%91%8B&fontSize=55&fontColor=FFFFFF&animation=fadeIn&descSize=20&descAlignY=75&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=250&section=header&text=Welcome%20to%20my%20profile%2C%%20%F0%9F%91%8B&fontSize=55&fontColor=FFFFFF&animation=fadeIn&descSize=20&descAlignY=75&fontAlignY=40" width="100%" />
 </p>
 
 &nbsp;👩‍💻 I'm a Software Engineer passionate about Backend Development using **.NET, C#, ASP.NET Core, and SQL Server**.  

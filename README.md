@@ -1,102 +1,130 @@
+```html
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=250&section=header&text=Welcome%20to%20my%20profile%20%F0%9F%91%8B&fontSize=55&fontColor=FFFFFF&animation=fadeIn&descSize=20&descAlignY=75&fontAlignY=40" width="100%" />
 </p>
 
 <p>
   👩‍💻 I'm a Software Engineer passionate about Backend Development using <strong>.NET, C#, ASP.NET Core, and SQL Server</strong>.<br>
-  💼 I'm passionate about backend development, RESTful APIs, and building clean and maintainable software.<br>
-  🧠 I have a strong foundation in <strong>OOP, SOLID Principles, Clean Architecture, and problem solving</strong>.<br>
+  💼 I focus on backend development, RESTful APIs, and building clean and maintainable software.<br>
+  🧠 I have a strong foundation in <strong>OOP, SOLID Principles, Clean Architecture, and Problem Solving</strong>.<br>
   🏆 I'm an <strong>ECPC Finalist</strong> and an active <strong>ICPC Assiut University Community Mentor</strong>.<br>
   💡 I enjoy solving challenging programming problems and building practical software solutions.<br>
   🌱 I'm continuously improving my skills in software engineering, backend development, and system architecture.<br>
   🤝 Feel free to reach out to me for collaboration, technical discussions, or interesting opportunities.
 </p>
 
-<!-- Contact Links Left + GIF Right -->
-<table width="100%" border="0">
+<!-- Contact Information + GIF -->
+<table width="100%">
   <tr>
     <td width="60%" align="left" valign="middle">
       <p>
-        ✉️ Email: <a href="mailto:salmahani0127@gmail.com">salmahani0127@gmail.com</a><br><br>
-        🌐 GitHub: <a href="https://github.com/SalmaHani2">SalmaHani2</a><br><br>
-        💼 LinkedIn: <a href="https://linkedin.com/in/salma-hani">Salma Hani</a><br><br>
-        🧩 Codeforces: <a href="https://codeforces.com/profile/salmahani0127">Salma Hani</a>
+        ✉️ <strong>Email:</strong>
+        <a href="mailto:salmahani0127@gmail.com">salmahani0127@gmail.com</a><br><br>
+
+        🌐 <strong>GitHub:</strong>
+        <a href="https://github.com/SalmaHani2">SalmaHani2</a><br><br>
+
+        💼 <strong>LinkedIn:</strong>
+        <a href="https://linkedin.com/in/salma-hani">Salma Hani</a><br><br>
+
+        🧩 <strong>Codeforces:</strong>
+        <a href="https://codeforces.com/profile/salmahani0127">Salma Hani</a>
       </p>
     </td>
 
     <td width="40%" align="center" valign="middle">
-    <img
-  alt="Girl Day Night"
-  src="https://i.giphy.com/1XCcD9VLQZ2Io/giphy.gif"
-  align="right"
-  width="350"
-/>
+      <img
+        src="https://i.giphy.com/1XCcD9VLQZ2Io/giphy.gif"
+        alt="Girl Day Night"
+        width="300"
+      />
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- Original Coding Girl beside Tech Stack -->
-<img alt="Coding Girl" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" align="right" width="350" />
+<!-- Tech Stack + Coding GIF -->
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
 
-### 🛠 &nbsp;Tech Stack
+### 🛠️ Tech Stack
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🧩 &nbsp;Frameworks & Libraries
+### 🧩 Frameworks & Libraries
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
-![ASP.NET Identity](https://img.shields.io/badge/ASP.NET%20Identity-68217A?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Identity](https://img.shields.io/badge/ASP.NET%20Identity-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 🗃 &nbsp;Databases
+### 🗃️ Databases
 
-![SQL Server](https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![SQL Server](https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🧰 &nbsp;Version Control & Tools
+### 🧰 Version Control & Tools
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-### 🧠 &nbsp;Software Design & Architecture
+### 🧠 Software Design & Architecture
 
-![OOP](https://img.shields.io/badge/OOP-%23007ACC.svg?style=for-the-badge&logo=code&logoColor=white)&nbsp;
-![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-%23F24E1E.svg?style=for-the-badge&logo=abstract&logoColor=white)&nbsp;
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-%23E34F26.svg?style=for-the-badge&logo=architecture&logoColor=white)&nbsp;
-![MVC Architecture](https://img.shields.io/badge/MVC%20Architecture-%231572B6.svg?style=for-the-badge&logo=structure&logoColor=white)&nbsp;
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%2300f.svg?style=for-the-badge&logo=diagram&logoColor=white)&nbsp;
-![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-%2300599C.svg?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
-![System Design](https://img.shields.io/badge/System%20Design-%23323330.svg?style=for-the-badge&logo=blueprint&logoColor=white)&nbsp;
+![OOP](https://img.shields.io/badge/OOP-%23007ACC.svg?style=for-the-badge&logo=code&logoColor=white)
+![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-%23F24E1E.svg?style=for-the-badge&logo=abstract&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-%23E34F26.svg?style=for-the-badge&logo=architecture&logoColor=white)
+![MVC Architecture](https://img.shields.io/badge/MVC%20Architecture-%231572B6.svg?style=for-the-badge&logo=structure&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%2300f.svg?style=for-the-badge&logo=diagram&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-%2300599C.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-%23323330.svg?style=for-the-badge&logo=blueprint&logoColor=white)
 
-### 🤝🏻 &nbsp;Connect with Me
+    </td>
+
+    <td width="40%" align="center" valign="middle">
+      <img
+        src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"
+        alt="Coding Girl"
+        width="300"
+      />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Connect with Me -->
+<h3 align="center">🤝🏻 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/salma-hani/" target="_blank">
-    <img src="https://img.shields.io/badge/-Salma%20Hani-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/salma-hani" target="_blank">
+    <img src="https://img.shields.io/badge/-Salma%20Hani-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:salmahani0127@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-salmahani0127%40gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+
+  <a href="mailto:salmahani0127@gmail.com">
+    <img src="https://img.shields.io/badge/-salmahani0127%40gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email"/>
   </a>
+
   <a href="https://github.com/SalmaHani2" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+
   <a href="https://codeforces.com/profile/salmahani0127" target="_blank">
-    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=100&section=footer" width="100%" />
 </p>
+```

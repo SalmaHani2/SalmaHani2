@@ -12,26 +12,28 @@
   🤝 Feel free to reach out to me for collaboration, technical discussions, or interesting opportunities.
 </p>
 
-- ✉️ Email: salmahani0127@gmail.com
-- 🌐 GitHub: [SalmaHani2](https://github.com/SalmaHani2)
-- 💼 LinkedIn: [Salma Hani](https://linkedin.com/in/salma-hani)
-- 🧩 Codeforces: [Salma Hani](https://codeforces.com/profile/salmahani0127)
+<table>
+  <tr>
+    <td valign="center" width="60%">
+      <ul>
+        <li>✉️ Email: <a href="mailto:salmahani0127@gmail.com">salmahani0127@gmail.com</a></li>
+        <li>🌐 GitHub: <a href="https://github.com/SalmaHani2">SalmaHani2</a></li>
+        <li>💼 LinkedIn: <a href="https://linkedin.com/in/salma-hani">Salma Hani</a></li>
+        <li>🧩 Codeforces: <a href="https://codeforces.com/profile/salmahani0127">Salma Hani</a></li>
+      </ul>
+    </td>
+
+    <td align="center" width="40%">
+      <img
+        alt="Girl Day Night GIF"
+        src="https://i.giphy.com/1XCcD9VLQZ2Io/giphy.gif"
+        width="300"
+      />
+    </td>
+  </tr>
+</table>
 
 <br>
-
-<!-- New GIF - Separate section -->
-
-<p align="center">
-  <img
-    alt="Girl Day Night"
-    src="https://i.giphy.com/1XCcD9VLQZ2Io/giphy.gif"
-    width="350"
-  />
-</p>
-
-<br>
-
-<!-- Original Coding Girl - Beside Tech Stack -->
 
 <img alt="Coding Girl" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" align="right" width="350" />
 

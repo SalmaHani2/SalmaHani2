@@ -12,21 +12,22 @@
   🤝 Feel free to reach out to me for collaboration, technical discussions, or interesting opportunities.
 </p>
 
-<table>
+<!-- Contact Links Left + GIF Right -->
+<table width="100%" border="0">
   <tr>
-    <td valign="center" width="60%">
-      <ul>
-        <li>✉️ Email: <a href="mailto:salmahani0127@gmail.com">salmahani0127@gmail.com</a></li>
-        <li>🌐 GitHub: <a href="https://github.com/SalmaHani2">SalmaHani2</a></li>
-        <li>💼 LinkedIn: <a href="https://linkedin.com/in/salma-hani">Salma Hani</a></li>
-        <li>🧩 Codeforces: <a href="https://codeforces.com/profile/salmahani0127">Salma Hani</a></li>
-      </ul>
+    <td width="60%" align="left" valign="middle">
+      <p>
+        ✉️ Email: <a href="mailto:salmahani0127@gmail.com">salmahani0127@gmail.com</a><br><br>
+        🌐 GitHub: <a href="https://github.com/SalmaHani2">SalmaHani2</a><br><br>
+        💼 LinkedIn: <a href="https://linkedin.com/in/salma-hani">Salma Hani</a><br><br>
+        🧩 Codeforces: <a href="https://codeforces.com/profile/salmahani0127">Salma Hani</a>
+      </p>
     </td>
 
-    <td align="center" width="40%">
+    <td width="40%" align="center" valign="middle">
       <img
         alt="Girl Day Night GIF"
-        src="https://i.giphy.com/1XCcD9VLQZ2Io/giphy.gif"
+        src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif"
         width="300"
       />
     </td>
@@ -35,9 +36,10 @@
 
 <br>
 
+<!-- Original Coding Girl beside Tech Stack -->
 <img alt="Coding Girl" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" align="right" width="350" />
 
-🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
@@ -47,7 +49,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
-🧩 &nbsp;Frameworks & Libraries
+### 🧩 &nbsp;Frameworks & Libraries
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
@@ -55,19 +57,19 @@
 ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 ![ASP.NET Identity](https://img.shields.io/badge/ASP.NET%20Identity-68217A?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 
-🗃 &nbsp;Databases
+### 🗃 &nbsp;Databases
 
 ![SQL Server](https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
-🧰 &nbsp;Version Control & Tools
+### 🧰 &nbsp;Version Control & Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
 
-🧠 &nbsp;Software Design & Architecture
+### 🧠 &nbsp;Software Design & Architecture
 
 ![OOP](https://img.shields.io/badge/OOP-%23007ACC.svg?style=for-the-badge&logo=code&logoColor=white)&nbsp;
 ![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-%23F24E1E.svg?style=for-the-badge&logo=abstract&logoColor=white)&nbsp;
@@ -77,7 +79,7 @@
 ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-%2300599C.svg?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 ![System Design](https://img.shields.io/badge/System%20Design-%23323330.svg?style=for-the-badge&logo=blueprint&logoColor=white)&nbsp;
 
-🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/salma-hani/" target="_blank">

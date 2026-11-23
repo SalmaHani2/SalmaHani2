@@ -25,11 +25,12 @@
     </td>
 
     <td width="40%" align="center" valign="middle">
-      <img
-        alt="Girl Day Night GIF"
-        src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif"
-        width="300"
-      />
+    <img
+  alt="Girl Day Night"
+  src="https://i.giphy.com/1XCcD9VLQZ2Io/giphy.gif"
+  align="right"
+  width="350"
+/>
     </td>
   </tr>
 </table>
